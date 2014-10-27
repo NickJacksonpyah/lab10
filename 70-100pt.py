@@ -29,6 +29,8 @@ square = drawpad.create_rectangle(200,200,300,300)
 line = drawpad.create_line(300, 200, 250, 175)
 line1 = drawpad.create_line(200, 200, 250, 175)
 line2 = drawpad.create_line(230, 300, 230, 270)
+#door
 square = drawpad.create_rectangle(230, 300, 250, 270)
+#chimney
 square1 = drawpad.create_rectangle(270, 185, 250, 160)
 root.mainloop()
